@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Shadrack Muusya
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43a52d45-4df2-4e81-b406-3b104a10f775" />
+
 
 ### Blockchain Developer | Machine Learning Enthusiast | Web3 & AI Builder
 
@@ -105,7 +107,7 @@ I use practical projects to strengthen my understanding of software engineering,
 
 ---
 
-## 💡 What I'm Interested in Building
+##  What I'm Interested in Building
 
 I believe the future of technology lies in the integration of intelligent systems and decentralised infrastructure.
 
@@ -148,8 +150,8 @@ I am always interested in connecting with developers, researchers, innovators an
 
 Let's learn, build and create meaningful technology together.
 
-- **GitHub:** [Your GitHub Profile](https://github.com/YOUR_USERNAME)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+- **GitHub:** [Your GitHub Profile](https://github.com/Benja4c)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/bennzonga/)
 
 ---
 
